@@ -1,4 +1,4 @@
-# Welcome to My Innovative Solutions Hub! 🌟
+# Welcome to CodeCrafter Hub! 🌟
 
 Hello and welcome! I am a **Python Developer**, **Data Scientist**, and a **Business Strategy Consultant** with a rich educational background including a **Doctor of Business Administration**, an **MBA**, and a **BSc in Management Information Systems**. My career is dedicated to bridging the gap between cutting-edge technology and strategic business implementation, driven by an unwavering enthusiasm for **Artificial Intelligence** and the future of work.
 
